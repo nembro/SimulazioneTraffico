@@ -1,7 +1,7 @@
 package it.unibs.fp.traffico;
 
 /**
- * 
+ * Classe elemento Vuoto
  * @author Magri Bortolo
  * @author Nembrini Marco
  * @author Oldani Federico
@@ -37,4 +37,5 @@ public class Vuoto extends Elemento {
 		return SIMBOLO_VUOTO;
 	}
 
+	
 }

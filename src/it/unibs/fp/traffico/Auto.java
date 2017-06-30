@@ -1,7 +1,7 @@
 package it.unibs.fp.traffico;
 
 /**
- * 
+ * Classe Auto
  * @author Magri Bortolo
  * @author Nembrini Marco
  * @author Oldani Federico

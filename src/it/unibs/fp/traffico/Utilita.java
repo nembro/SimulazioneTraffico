@@ -3,7 +3,7 @@ package it.unibs.fp.traffico;
 import it.unibs.fp.mylib.*;
 
 /**
- * 
+ * Classe di utilità
  * @author Magri Bortolo
  * @author Nembrini Marco
  * @author Oldani Federico
@@ -30,7 +30,6 @@ public class Utilita {
 		System.out.println(strada.toString());
 		System.out.printf(FORMAT_MSG_SIM, collisioni);
 	}
-	
-	
+		
 
 }

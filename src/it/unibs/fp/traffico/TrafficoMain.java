@@ -3,7 +3,7 @@ package it.unibs.fp.traffico;
 import it.unibs.fp.mylib.*;
 
 /**
- * 
+ * Classe Main
  * @author Magri Bortolo
  * @author Nembrini Marco
  * @author Oldani Federico
@@ -14,6 +14,8 @@ public class TrafficoMain {
 	private static final String MSG_SIM = "Procedere con la simulazione?";
 	private static final String MSG_SIM_TERMINATA = "Simulazione terminata";
 	private static final String NEW_LINE = "\n";
+	
+	
 	public static void main(String[] args) {
 		
 		Utilita.saluta();
@@ -32,7 +34,6 @@ public class TrafficoMain {
 		} while (stato);
 		
 		System.out.println(MSG_SIM_TERMINATA);
-
 
 	}
 

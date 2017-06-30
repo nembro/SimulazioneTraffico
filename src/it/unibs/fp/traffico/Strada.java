@@ -3,7 +3,7 @@ package it.unibs.fp.traffico;
 import it.unibs.fp.mylib.*;
 
 /**
- * 
+ * Classe Strada
  * @author Magri Bortolo
  * @author Nembrini Marco
  * @author Oldani Federico

@@ -1,7 +1,7 @@
 package it.unibs.fp.traffico;
 
 /**
- * 
+ * Classe Pedone
  * @author Magri Bortolo
  * @author Nembrini Marco
  * @author Oldani Federico

@@ -1,7 +1,7 @@
 package it.unibs.fp.traffico;
 
 /**
- * 
+ * Classe per la gestione di Coordinate
  * @author Magri Bortolo
  * @author Nembrini Marco
  * @author Oldani Federico
@@ -117,9 +117,6 @@ public class Coordinate {
 	public void incrementaY() {
 		y++;
 	}
-	
-	
-	
 	
 
 }
